@@ -1,5 +1,7 @@
 # moneyforward-auto-refresh
 
+This is the automate tool to refresh linked financial account of MoneyForward ME
+
 ## How to use
 1. Create .env file in moneyforward-auto-refresh directory
 ```
